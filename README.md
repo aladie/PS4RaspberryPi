@@ -1,4 +1,12 @@
+**Changes**
+
+Replaced the original 9.00 webkit exploit with the new PSFree webkit exploit.
+All credits for PSFree go to abc.
+
+_Original readme by PaulJenkin:_
+
 **PS4RaspberryPi**
+
 Following is the Write up on how to use the Raspberry Pi (Zero W, Zero 2 W, 4 B) to host a Web server, DNS Server, Key stroke Simulation, USB image and emulator
 Things required
 1.	Raspberry Pi Zero W or Pi Zero 2 W or Pi 4 B
